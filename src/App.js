@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './components/StlzdButton';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <stlzd-button>Click me</stlzd-button>
     </div>
   );
 }
