@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './components/StlzdButton';
+import '../node_modules/stylizedjs/dist/components/button/button.js';
 
 function App() {
   return (
